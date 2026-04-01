@@ -40,7 +40,7 @@
 </td>
 <td valign="top" width="25%">
 
-### Languages
+## Languages
 <a href="https://github.com/a-rossman0825">
 <div align="center">
 <img src="https://skillicons.dev/icons?i=ts,cs,py,mysql,php&perline=4" />
@@ -61,7 +61,7 @@
 ## Connect with me:
 <div align="center">
 <a href="https://www.linkedin.com/in/anthony-rossman-dev/" target="_blank">
-<img src="https://img.shields.io/badge/-Anthony%20Rossman-0077B5?style=flat&logo=Linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" />
 </a>
 <a href="mailto:anthony.rossman.dev@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-anthony.rossman.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" />
