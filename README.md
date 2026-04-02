@@ -19,6 +19,7 @@
 <table>
 <tr>
 <td valign="top" width="25%">
+  
 ## Frontend
 <a href="https://github.com/a-rossman0825">
 <div align="center">
@@ -36,6 +37,7 @@
 </a>
 </td>
 <td valign="top" width="25%">
+  
 ## Other Tools
 <a href="https://github.com/a-rossman0825">
 <div align="center">
