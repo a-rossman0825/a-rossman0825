@@ -6,12 +6,12 @@
 
 - Born and raised in Boise, Idaho.
 - Freelance Full Stack Developer currently looking for a new career in a team setting.
-- Love creating clean & fun UI’s and user Experiences.
+- Love creating clean & fun UI’s.
 - Built an “accessibility-first” Vue + TypeScript Component Library named “ShoeHorn UI” with over 700 npm downloads in the first two months.
-- Designing and Building custom web & e-commerce sites for clients with Vue or Wordpress.
-- Designed, built and currently in the testing phase of a client intake automation Software as a Service, currently in use by multiple law firms.
-- Certified full stack developer through the Boise CodeWorks certification course.
+- Designing and Building custom web & e-commerce sites for clients with Vue and/or Wordpress.
+- Designed, built and currently in the testing phase of a client intake automation SaaS, in use by multiple law firms.
 - I enjoy building reusable tools, plugins, templates, and libraries to ship projects faster, cleaner, and more scalable.
+- Lead singer & bass player in the soon-to-be still unknown rock band "Rattlesnake Preachers."
 
 
 ## Technologies:
