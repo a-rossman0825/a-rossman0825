@@ -19,7 +19,7 @@
 <table>
 <tr>
 <td valign="top" width="25%">
-### Frontend
+## Frontend
 <a href="https://github.com/a-rossman0825">
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vue,bootstrap,tailwind,sass,pinia,wordpress&perline=4" />
@@ -36,7 +36,7 @@
 </a>
 </td>
 <td valign="top" width="25%">
-### Other Tools
+## Other Tools
 <a href="https://github.com/a-rossman0825">
 <div align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,dotnet,express,figma,git,mongodb,nodejs,npm,nuxtjs,postman,powershell&perline=4" />
