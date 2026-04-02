@@ -23,7 +23,7 @@
 ## Frontend
 <a href="https://github.com/a-rossman0825">
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vue,bootstrap,tailwind,sass,pinia,wordpress&perline=4" />
+<img src="https://skillicons.dev/icons?i=vue,bootstrap,tailwind,sass,pinia,wordpress&perline=4" alt="badges for vue.js, bootstrap, tailwind, sass, pinia, and wordpress" title="vue, bootstrap, tailwind, sass, pinia, & wordpress" />
 </div>
 </a>
 </td>
@@ -32,7 +32,7 @@
 ## Languages
 <a href="https://github.com/a-rossman0825">
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,cs,py,mysql,php&perline=4" />
+<img src="https://skillicons.dev/icons?i=ts,cs,mysql,php&perline=4" alt="badges for TypeScript, Csharp, MySQL, and PHP" title="TypeScript, C#, MySQL, & PHP" />
 </div>
 </a>
 </td>
@@ -41,7 +41,7 @@
 ## Other Tools
 <a href="https://github.com/a-rossman0825">
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,dotnet,express,figma,git,mongodb,nodejs,npm,nuxtjs,postman,powershell&perline=4" />
+<img src="https://skillicons.dev/icons?i=aws,docker,dotnet,express,figma,git,mongodb,nodejs,npm,nuxtjs,postman,powershell&perline=4" alt="badges for Amazon web services, docker, dotnet, express.js, figma, git, mongodb, node.js, npm, nuxt.js, postman, and powershell" title="aws, docker, dotnet, express, figma, git, mongodb, nodejs, npm, nuxt.js, postman, & powershell" />
 </div>
 </a>
 </td>
