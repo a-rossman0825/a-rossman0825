@@ -1,6 +1,6 @@
 # Hello There, my name is Anthony Rossman
 
-<img src="https://forums.terraria.org/index.php?attachments/download-gif.205100/" align="center" width="75%" height="50%" />
+<img src="https://forums.terraria.org/index.php?attachments/download-gif.205100/" valign="center" width="75%" height="50%" />
 
 ## About Me:
 
