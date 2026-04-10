@@ -4,14 +4,10 @@
 
 ## About Me:
 
-- Born and raised in Boise, Idaho.
-- Freelance Full Stack Developer currently looking for a new career in a team setting.
-- Love creating clean & fun UI’s.
-- Built an “accessibility-first” Vue + TypeScript Component Library named “ShoeHorn UI” with over 700 npm downloads in the first two months.
-- Designing and Building custom web & e-commerce sites for clients with Vue and/or Wordpress.
-- Designed, built and currently in the testing phase of a client intake automation SaaS, in use by multiple law firms.
-- I enjoy building reusable tools, plugins, templates, and libraries to ship projects faster, cleaner, and more scalable.
-- Lead singer & bass player in the soon-to-be still unknown rock band "Rattlesnake Preachers."
+Full Stack Developer specializing in Vue + TypeScript + .NET applications.
+Built and shipped an accessibility-first component library (700+ npm downloads in 2 months).
+Currently developing a client intake automation SaaS actively used by multiple law firms.
+Experienced in building scalable, reusable systems and full-stack web applications for real clients.
 
 
 ## Technologies:
@@ -23,16 +19,16 @@
 ## Frontend
 <a href="https://github.com/a-rossman0825">
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vue,bootstrap,tailwind,sass,pinia,wordpress&perline=4" alt="badges for vue.js, bootstrap, tailwind, sass, pinia, and wordpress" title="vue, bootstrap, tailwind, sass, pinia, & wordpress" />
+<img src="https://i.icoziv.workers.dev/icons?i=vuejs-dark,typescript,sass,tailwindcss-dark,gsap-dark&perline=4" alt="badges for vue.js, typescript, sass, tailwind and greensock animation platform" title="vue, typescript, sass, tailwind, and greensock animation platform" />
 </div>
 </a>
 </td>
 <td valign="top" width="25%">
 
-## Languages
+## Backend
 <a href="https://github.com/a-rossman0825">
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,cs,mysql,php&perline=4" alt="badges for TypeScript, Csharp, MySQL, and PHP" title="TypeScript, C#, MySQL, & PHP" />
+<img src="https://i.icoziv.workers.dev/icons?i=cs,dontnet,rest,mysql-dark&perline=4" alt="badges for C Sharp, dotnet, REST API, and MySQL" title="Csharp, Dotnet, REST API, and MySQL" />
 </div>
 </a>
 </td>
@@ -41,7 +37,7 @@
 ## Other Tools
 <a href="https://github.com/a-rossman0825">
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,dotnet,express,figma,git,mongodb,nodejs,npm,nuxtjs,postman,powershell&perline=4" alt="badges for Amazon web services, docker, dotnet, express.js, figma, git, mongodb, node.js, npm, nuxt.js, postman, and powershell" title="aws, docker, dotnet, express, figma, git, mongodb, nodejs, npm, nuxt.js, postman, & powershell" />
+<img src="https://i.icoziv.workers.dev/icons?i=amazonwebservices-dark,docker,expressjs-dark,nodejs-dark,nuxtjs-dark,bootstrap,bash-dark,git-dark,postman,pinia-dark&perline=4" alt="badges for Amazon Web Services, Docker, express.js, node.js, nuxt.js, bootstrap, bash, git, postman, and pinia" title="aws, docker, expressjs, nodejs, nuxtjs, bootstrap, bash, git, postman & pinia" />
 </div>
 </a>
 </td>
