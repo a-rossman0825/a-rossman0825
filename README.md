@@ -1,7 +1,7 @@
 # Hello There, my name is Anthony Rossman
 
 <div>
-    <img src="./terminal.gif" alt="Hello There Terminal gif"/>
+    <img src="./terminal (1).gif" alt="Hello There Terminal gif"/>
 </div>
 
 
