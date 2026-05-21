@@ -1,6 +1,9 @@
 # Hello There, my name is Anthony Rossman
 
-<img src="https://forums.terraria.org/index.php?attachments/download-gif.205100/" valign="center" width="75%" height="50%" />
+<div>
+    <img src="./terminal.gif" alt="Hello There Terminal gif"/>
+</div>
+
 
 ## About Me:
 
