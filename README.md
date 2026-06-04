@@ -63,7 +63,7 @@ Experienced in building scalable, reusable systems and full-stack web applicatio
 ## Github Stats:
 <p align="center">
 <a href="https://github.com/a-rossman0825/">
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=a-rossman0825&show_icons=true&theme=onedark" />
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=a-rossman0825&show_icons=true&locale=en&layout=demo&theme=OneDark&hide_border=true" />
 </a>
 </p>
 
